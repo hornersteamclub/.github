@@ -1,4 +1,4 @@
-<img src = "hornerhornet.png" align = "right">
+<img src = "https://raw.githubusercontent.com/hornersteamclub/.github/master/profile/hornerhornet.png" align = "right">
 
 # The Horner STEAM Club
 Horner STEAM is a club of like-minded students working to solve problems.

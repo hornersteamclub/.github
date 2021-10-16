@@ -1,8 +1,7 @@
-<center>
-    <img src = "hornerhornet.png">
-    <h1>The Horner STEAM Club</h1>
-    <p>Horner STEAM is a club of like-minded students working to solve problems.</p>
-</center>
+<img src = "hornerhornet.png" align = "right">
+
+# The Horner STEAM Club
+Horner STEAM is a club of like-minded students working to solve problems.
 
 ## Club Officers
 - [Aarush Gupta](https://github.com/0x44RU5H) - Club President

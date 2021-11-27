@@ -4,8 +4,7 @@
 Horner STEAM is a club of like-minded students working to solve problems.
 
 ## Club Officers
-- [Aarush Gupta](https://github.com/0x44RU5H) - Club President
-- Akshaya Krishna - Club Secretary
+- [Aarush Gupta](https://theaarushgupta.com) ~ Club President
 
 ## Work
 
